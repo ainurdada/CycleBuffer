@@ -23,5 +23,8 @@
     <ClInclude Include="CycleBuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CycleBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
